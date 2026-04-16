@@ -2,14 +2,19 @@
 CAN Message Interpreter and Sender that has be proven to work on Windows
 
 ## Python Requirements:
-Python version: Python 3.13\n
+Python version: Python 3.13
+
 Python Packages: wxPython and python-can
 
 ## CPP Requirements:
-CMake version >= 3.15\n
-Toolchain: vcpkg\n
-C++ version: 17\n
-Libraries: wxWidgets (vcpkg install wxwidgets:x64-windows) and IXXAT Library\n
+CMake version >= 3.15
+
+Toolchain: vcpkg
+
+C++ version: 17
+
+Libraries: wxWidgets (vcpkg install wxwidgets:x64-windows) and IXXAT Library
+
 Installing VCI SDK:
 1. Install this zip file and extract it: https://hmsnetworks.blob.core.windows.net/nlw/docs/default-source/products/ixxat/monitored/pc-interface-cards/vci-v4-0-1348-windows-11-10.zip?sfvrsn=2d1dfdd7_91
 2. Run the installer and select to install the SDK
