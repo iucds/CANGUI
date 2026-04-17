@@ -1,4 +1,0 @@
-../Core/Src/serialcan.c:41:6:hello	8	static
-../Core/Src/serialcan.c:46:6:generateRegistry	152	dynamic
-../Core/Src/serialcan.c:102:6:serial_to_can	80	static
-../Core/Src/serialcan.c:241:6:can_to_serial	488	static
